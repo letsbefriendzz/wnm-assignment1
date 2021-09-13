@@ -1,0 +1,15 @@
+
+WMP-A01/obj/WMP-A01.csproj.nuget.g.targets
+WMP-A01/obj/WMP-A01.csproj.nuget.g.props
+WMP-A01/obj/WMP-A01.csproj.nuget.dgspec.json
+*.cache
+*.json
+*.pdb
+*.editorconfig
+*.dll
+*.txt
+WMP-A01/obj/Debug/net5.0/WMP-A01.AssemblyInfo.cs
+WMP-A01/obj/Debug/net5.0/apphost.exe
+WMP-A01/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+.vs/WMP-A01/v16/.suo
+.vs/WMP-A01/DesignTimeBuild/.dtbcache.v2
